@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<siteMap title="云服务商评价系统">
+  <siteMapNode url="" title="用户功能" description="">
+    <siteMapNode url="" title="服务商管理" description="">      
+      <siteMapNode url="~\CsUser\CloudServiceList.aspx"  title="云服务商列表"  description="云服务商列表" NavigateUrl="CloudServiceList.aspx" />
+      <siteMapNode url="~\CsUser\UserFavorite.aspx"   title="我的收藏"  description="我的收藏" NavigateUrl="UserFavorite.aspx" />
+      <siteMapNode url="~\CsUser\MyComment.aspx"   title="我的评论"  description="我的评论" NavigateUrl="MyComment.aspx" />
+    </siteMapNode>
+    <siteMapNode url="" title="系统功能" description="">
+      <siteMapNode url="~\CsUser\CommentList.aspx"  title="大家评"  description="所有的评论" NavigateUrl="CommentList.aspx" />
+      <siteMapNode url="~\CsUser\ChangeInfo.aspx"  title="修改个人信息"  description="修改个人信息" NavigateUrl="ChangeInfo.aspx" />
+    </siteMapNode>
+  </siteMapNode>
+  
+  <siteMapNode url="" title="系统功能" description="">
+    <siteMapNode url="" title="系统" description="">
+      <siteMapNode url="~\CsUser\Main.aspx"   title="公告"  description="首页" NavigateUrl="Main.aspx" />
+      <siteMapNode url="~\Login.aspx"   title="重新登录"  description="登录" NavigateUrl="Login.aspx" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
+
+

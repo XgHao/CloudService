@@ -1,0 +1,9 @@
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.BLL.dll
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.BLL.pdb
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.DAO.dll
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.Models.dll
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.DAO.pdb
+H:\VS2013\netclass\CloudService\CloudService.BLL\bin\Release\CloudService.Models.pdb
+H:\VS2013\netclass\CloudService\CloudService.BLL\obj\Release\CloudService.BLL.csprojResolveAssemblyReference.cache
+H:\VS2013\netclass\CloudService\CloudService.BLL\obj\Release\CloudService.BLL.dll
+H:\VS2013\netclass\CloudService\CloudService.BLL\obj\Release\CloudService.BLL.pdb

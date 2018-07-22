@@ -1,0 +1,13 @@
+H:\VS2013\netclass\class\Class.Models\bin\Debug\Class.Models.dll
+H:\VS2013\netclass\class\Class.Models\bin\Debug\Class.Models.pdb
+H:\VS2013\netclass\class\Class.Models\obj\Debug\Class.Models.dll
+H:\VS2013\netclass\class\Class.Models\obj\Debug\Class.Models.pdb
+H:\VS2013\netclass\class\CloudService.Models\bin\Debug\CloudService.Models.dll
+H:\VS2013\netclass\class\CloudService.Models\bin\Debug\CloudService.Models.pdb
+H:\VS2013\netclass\class\CloudService.Models\obj\Debug\CloudService.Models.dll
+H:\VS2013\netclass\class\CloudService.Models\obj\Debug\CloudService.Models.pdb
+H:\VS2013\netclass\class\CloudService.Models\obj\Debug\CloudService.Models.csprojResolveAssemblyReference.cache
+H:\VS2013\netclass\CloudService\CloudService.Models\bin\Debug\CloudService.Models.dll
+H:\VS2013\netclass\CloudService\CloudService.Models\bin\Debug\CloudService.Models.pdb
+H:\VS2013\netclass\CloudService\CloudService.Models\obj\Debug\CloudService.Models.dll
+H:\VS2013\netclass\CloudService\CloudService.Models\obj\Debug\CloudService.Models.pdb

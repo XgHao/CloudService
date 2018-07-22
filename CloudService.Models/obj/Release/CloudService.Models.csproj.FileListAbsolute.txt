@@ -1,0 +1,4 @@
+H:\VS2013\netclass\CloudService\CloudService.Models\bin\Release\CloudService.Models.dll
+H:\VS2013\netclass\CloudService\CloudService.Models\bin\Release\CloudService.Models.pdb
+H:\VS2013\netclass\CloudService\CloudService.Models\obj\Release\CloudService.Models.dll
+H:\VS2013\netclass\CloudService\CloudService.Models\obj\Release\CloudService.Models.pdb
